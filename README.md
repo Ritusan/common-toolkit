@@ -3,7 +3,7 @@
   
   <p>
     <img src="https://img.shields.io/github/languages/code-size/Ritusan/common-toolkit" alt="code-size" />
-    <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/common-toolkit/vue?color=brightgreen" alt="dependency-version" />
+<!--     <img src="https://img.shields.io/github/package-json/dependency-version/Ritusan/common-toolkit/vue?color=brightgreen" alt="dependency-version" /> -->
     <img src="https://img.shields.io/github/languages/count/Ritusan/common-toolkit" alt="languages-count" />
     <img src="https://img.shields.io/github/languages/top/Ritusan/common-toolkit?color=yellow" alt="languages-top" />
 <!--     <img src="https://img.shields.io/github/package-json/v/Ritusan/common-toolkit" alt="version" /> -->
