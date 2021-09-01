@@ -1,0 +1,55 @@
+{
+  "workbench.colorTheme": "Default Light+",
+  "workbench.iconTheme": "Monokai Pro (Filter Machine) Icons",
+  "fileheader.Author": "Akira",
+  "fileheader.LastModifiedBy": "Akira",
+  "editor.detectIndentation": false, // vscode默认启用了根据文件类型自动设置tabsize的选项
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true, // 每次保存的时候自动格式化
+  "editor.formatOnPaste": false, // 粘贴时自动格式化
+  "files.autoSave": "afterDelay", // 延时保存
+  "files.autoSaveDelay": 3000, // 3s保存一次
+  "[html]": {
+    // "editor.defaultFormatter": "HookyQR.beautify"
+  },
+  "[json]": {
+    // "editor.defaultFormatter": "HookyQR.beautify"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vetur.format.defaultFormatter.html": "prettier", //格式化.vue中html
+  //   "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "vetur.format.defaultFormatter.js": "prettier", // 让vue中的js按"prettier"格式进行格式化
+  "vetur.format.options.tabSize": 2,
+  "vetur.format.options.useTabs": false,
+  "vetur.format.defaultFormatterOptions": {
+    "prettier": {
+      "tabWidth": 2, // 会忽略vetur的tabSize配置
+      "false": true, // 是否利用tab替代空格
+      "htmlWhitespaceSensitivity": "ignore",
+      "semi": false, // 格式化不加分号
+      "singleQuote": true, // 格式化以单引号为主
+      //   "trailingComma": "none",
+      "eslintIntegration": true //  让prettier使用eslint的代码格式进行校验
+    },
+    "js-beautify-html": {
+      // "wrap_line_length": 120,
+      // "wrap_attributes": "force-aligned" // 属性强制折行对齐
+      //   "wrap_attributes": "force-expand-multiline" // 对每个属性进行换行
+      // "end_with_newline": false
+    }
+  },
+  //   "prettier.disableLanguages": [
+  //         "vue"
+  //     ],
+  "workbench.editor.enablePreview": false,
+  "files.associations": {
+    "*.vm": "velocity"
+  },
+  "editor.semanticTokenColorCustomizations": null
+}
