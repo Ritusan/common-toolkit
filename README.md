@@ -35,6 +35,8 @@
 
 `Axure.md`: Axure使用手册；
 
+[`Go Top ↑`](#common-toolkit)
+
 ### NPM
 
 `NPM.md`: 切换npm镜像源；
