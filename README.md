@@ -21,4 +21,12 @@
 <br />
 
 # common-toolkit
-常用的工具系列，常用的配置文件，常用的方法
+
+### VSCode
+
+`settings.json`: VSCode配置文件，设置编辑时自动保存，延时保存，或粘贴时自动格式化，保存时自动格式化，tabSize的设置，代码格式化的设置等配置；
+
+### colors
+
+1. `colors-convert.js`: Hex to Rgb and Rgb to Hex, Rbg颜色值与十六进制颜色码的相互转化；
+2. `gradient-site.md`: 一些好看的渐变色网站推荐；
