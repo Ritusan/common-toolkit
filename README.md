@@ -33,13 +33,13 @@
 
 ### Axure
 
-`Axure.md`: Axure使用手册；
+[Axure](Axure.md): Axure使用手册；
 
 [`Go Top ↑`](#common-toolkit)
 
 ### NPM
 
-[NPM.md](NPM.md): 切换npm镜像源；
+[NPM](NPM.md): 切换npm镜像源；
  1. 用npm全局安装nrm
  2. 查看所有可用的源
  3. 添加源
