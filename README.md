@@ -38,3 +38,4 @@
 
 - [Axure](Axure.md): Axure使用手册；
 - [NPM](NPM.md): 切换npm镜像源；
+- [CLI](CLI.md): 命令行操作;vi命令；
