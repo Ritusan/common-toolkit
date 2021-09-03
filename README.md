@@ -24,7 +24,8 @@
 
 ### VSCode
 
-`settings.json`: VSCode配置文件，设置编辑时自动保存，延时保存，或粘贴时自动格式化，保存时自动格式化，tabSize的设置，代码格式化的设置等配置；
+- `settings.json`: VSCode配置文件，设置编辑时自动保存，延时保存，或粘贴时自动格式化，保存时自动格式化，tabSize的设置，代码格式化的设置等配置；
+- `javascript.json`: 设置用户代码片段snippets；
 
 ### colors
 
