@@ -9,6 +9,10 @@
   "editor.formatOnPaste": false, // 粘贴时自动格式化
   "files.autoSave": "afterDelay", // 延时保存
   "files.autoSaveDelay": 3000, // 3s保存一次
+  "prettier.printWidth": 100, // 超过最大值换行
+  "prettier.semi": false, 
+  // "prettier.proseWrap": "preserve",
+  "prettier.bracketSpacing": true, // 在对象，数组括号与文字之间加空格 "{ foo: bar }"
   "[html]": {
     // "editor.defaultFormatter": "HookyQR.beautify"
   },
